@@ -1,2 +1,24 @@
-# Bestklass-product-
-BestKlass is a health and wellness platform focused on promoting trusted supplements, fitness support products, and lifestyle solutions that improve overall wellbeing.
+<!-- Primal Grow Pro Product Section -->
+<div class="section">
+  <h2>Primal Grow Pro — Unlock Your Full Potential</h2>
+  <p style="text-align:center; font-size:18px; max-width:700px; margin:auto;">
+    Experience the ultimate male enhancement solution with <strong>Primal Grow Pro</strong>. Designed for men who want to naturally boost vitality, stamina, and confidence, this premium supplement helps you perform at your best — every day.
+  </p>
+
+  <ul class="benefits" style="margin-top:20px;">
+    <li>Enhances male vitality and endurance</li>
+    <li>Supports natural hormone balance</li>
+    <li>Boosts energy and confidence</li>
+    <li>Safe, high-quality ingredients</li>
+  </ul>
+
+  <div style="text-align:center; margin-top:25px;">
+    <a href="https://primalgrowpro24.com/text.php#aff=baadombariborg0be9" class="btn" style="background:#ff4c3b; padding:18px 35px; font-size:18px; border-radius:6px;">
+      Get Primal Grow Pro Now
+    </a>
+  </div>
+
+  <p style="font-size:14px; text-align:center; color:#555; margin-top:15px;">
+    *Affiliate Disclaimer: BestKlass may earn a commission if you purchase through this link at no extra cost to you. Results may vary.
+  </p>
+</div>
