@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>NeuroVera – Brain Support & Mental Clarity Supplement | BestKlass</title>
+
+<meta name="description" content="NeuroVera supports mental clarity, focus, and cognitive wellness. Premium brain health supplement formulated for 2026 and beyond.">
+<meta name="keywords" content="NeuroVera, brain supplement, cognitive support, mental clarity, focus, brain health, BestKlass">
+<meta name="author" content="BestKlass">
+
+<style>
+  /* General Styles */
+  body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: #f8f8f8;
+    color: #222;
+    line-height: 1.6;
+  }
+  a { text-decoration: none; color: inherit; }
+  .container { max-width: 900px; margin: auto; padding: 20px; }
+
+  /* Hero Section */
+  .hero {
+    background: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);
+    color: #fff;
+    text-align: center;
+    padding: 70px 20px;
+  }
+  .hero h1 { font-size: 36px; margin-bottom: 12px; }
+  .hero p { font-size: 18px; margin-bottom: 25px; }
+  .btn {
+    background: #111;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 6px;
+    font-size: 18px;
+    display: inline-block;
+    transition: 0.3s;
+  }
+  .btn:hover { background: #333; }
+
+  /* Sections */
+  .section { padding: 60px 20px; }
+  .section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #111;
+  }
+  .section p {
+    font-size: 16px;
+    text-align: center;
+    max-width: 700px;
+    margin: auto;
+  }
+
+  /* Benefits */
+  .benefits {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  .benefit {
+    background: #fff;
+    margin: 10px;
+    padding: 18px;
+    border-radius: 8px;
+    width: 260px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  .benefit li {
+    list-style: none;
+    padding-left: 20px;
+    position: relative;
+    margin-bottom: 10px;
+  }
+  .benefit li:before {
+    content: "✔";
+    position: absolute;
+    left: 0;
+    color: #3a1c71;
+    font-weight: bold;
+  }
+
+  /* Product Image */
+  .product-image {
+    text-align: center;
+    margin: 40px 0;
+  }
+  .product-image img {
+    max-width: 300px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+  }
+
+  /* Testimonials */
+  .testimonial {
+    background: #fff;
+    padding: 18px;
+    border-radius: 8px;
+    margin: 15px auto;
+    max-width: 700px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    font-style: italic;
+    text-align: center;
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+    padding: 30px 20px;
+  }
+
+  /* Responsive */
+  @media(max-width:768px) {
+    .benefit { width: 90%; }
+    .hero h1 { font-size: 30px; }
+  }
+</style>
+</head>
+
+<body>
+
+<!-- Hero -->
+<div class="hero">
+  <h1>NeuroVera</h1>
+  <p>Advanced Brain Support for Clarity, Focus & Mental Wellness</p>
+  <a href="https://theneurovera.com/ds/go/indexts.php#aff=baadombariborg0be9" class="btn">Learn More About NeuroVera</a>
+</div>
+
+<div class="container">
+
+  <!-- Product Image -->
+  <div class="product-image">
+    <img src="neurovera.png" alt="NeuroVera Brain Supplement Bottle">
+  </div>
+
+  <!-- Problem Section -->
+  <div class="section">
+    <h2>Do You Want Better Mental Focus?</h2>
+    <p>
+      Mental fog, stress, and lack of focus can make everyday tasks harder.
+      NeuroVera is crafted to support cognitive clarity, mental energy, and brain wellness in a natural, daily supplement.
+    </p>
+  </div>
+
+  <!-- Benefits Section -->
+  <div class="section">
+    <h2>Key Benefits of NeuroVera</h2>
+    <div class="benefits">
+      <div class="benefit"><li>Supports mental clarity & focus</li></div>
+      <div class="benefit"><li>Encourages cognitive wellness</li></div>
+      <div class="benefit"><li>Promotes alertness and memory</li></div>
+      <div class="benefit"><li>Designed for daily use</li></div>
+    </div>
+  </div>
+
+  <!-- Testimonials -->
+  <div class="section">
+    <h2>What People Are Saying</h2>
+    <div class="testimonial">“Made a real difference in my focus at work!” – Jordan R.</div>
+    <div class="testimonial">“Feels like my mind is clearer and sharper.” – Casey M.</div>
+    <div class="testimonial">“Steadier energy and better concentration.” – Alex T.</div>
+  </div>
+
+  <!-- Final CTA -->
+  <div class="section" style="text-align:center;">
+    <a href="https://theneurovera.com/ds/go/indexts.php#aff=baadombariborg0be9" class="btn">Get NeuroVera Now</a>
+  </div>
+
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <p>© 2026 BestKlass. All rights reserved.</p>
+</div>
+
+</body>
+</html>
